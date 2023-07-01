@@ -20,6 +20,9 @@ The dataset used for this project consists of historical forest fire records and
 
 5. Run -  [http://127.0.0.1:5000/]
 
+## InAction
+<img width="854" alt="image" src="https://github.com/ankitrajput77/AlgerianForestFirePrediction/assets/113281225/b85fd9d9-2d86-4846-8d85-376ad4e0d307">
+
 ##  Contributing
 Contributions to this project are welcome. If you find any issues or have ideas for improvement, please open an issue or submit a pull request.
 
