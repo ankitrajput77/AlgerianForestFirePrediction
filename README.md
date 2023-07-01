@@ -4,7 +4,7 @@ This project aims to predict forest fire incidents in Algeria using machine lear
 
 ## Dataset
 
-The dataset used for this project consists of historical forest fire records and relevant environmental variables collected from different regions of Algeria. The dataset includes features such as temperature, humidity, wind speed, vegetation index, and the occurrence of forest fires.
+The dataset used for this project consists of historical forest fire records and relevant environmental variables collected from different regions of Algeria. The dataset includes features such as temperature, wind speed, Rain, Region, Classes and the occurrence of forest fires.
 
 ## Installation
 
@@ -17,6 +17,8 @@ The dataset used for this project consists of historical forest fire records and
 3. pip install -r requirements.txt
  
 4. python application.py
+
+5. Run -  [http://127.0.0.1:5000/]
 
 ##  Contributing
 Contributions to this project are welcome. If you find any issues or have ideas for improvement, please open an issue or submit a pull request.
